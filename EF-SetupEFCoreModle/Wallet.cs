@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace EF_SetupEFCoreModle
 {
-    internal class Wallet
+
+    // make entity 
+
+    public  class Wallet
     {
+        public int Id { get; set; } 
+        public string Holder { get; set; }
+        public decimal Balance { get; set; }
+
+        public override string ToString()
+        {
+            return $" id [{Id}] , holder [{Holder}] , balance is [{Balance:c}]";
+        }
     }
 }

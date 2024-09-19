@@ -14,8 +14,6 @@ namespace EF_SetupEFCoreModle
 
             Console.WriteLine(connectionString);
 
-
-
         }
     }
 }
