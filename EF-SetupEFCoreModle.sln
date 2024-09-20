@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EF-SetupEFCoreModle", "EF-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-RetriveData", "EF-RetriveData\EF-RetriveData.csproj", "{28F28E81-03B6-4099-BC86-B156A026A66D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-RetriveSingleItem&CURDOperation", "EF-RetriveSingleItem\EF-RetriveSingleItem&CURDOperation.csproj", "{8FA27816-FF66-4996-A8D6-4B907857ED26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{28F28E81-03B6-4099-BC86-B156A026A66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28F28E81-03B6-4099-BC86-B156A026A66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28F28E81-03B6-4099-BC86-B156A026A66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA27816-FF66-4996-A8D6-4B907857ED26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA27816-FF66-4996-A8D6-4B907857ED26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA27816-FF66-4996-A8D6-4B907857ED26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA27816-FF66-4996-A8D6-4B907857ED26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

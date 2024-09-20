@@ -1,4 +1,8 @@
 ﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration.Json; 
+using  Microsoft.EntityFrameworkCore;
+using System;
+using static System.Console; 
 
 namespace EF_SetupEFCoreModle
 {

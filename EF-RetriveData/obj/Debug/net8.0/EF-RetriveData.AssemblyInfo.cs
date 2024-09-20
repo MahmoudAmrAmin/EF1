@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EF-RetriveData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3c80910969aae90362d9c3815ff974013b5d08b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f35c3dfe9c08e7d6da07e68a7f6bc2a01359c110")]
 [assembly: System.Reflection.AssemblyProductAttribute("EF-RetriveData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EF-RetriveData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
