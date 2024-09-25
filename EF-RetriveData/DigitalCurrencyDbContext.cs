@@ -22,7 +22,7 @@ namespace EF_RetriveData
 
             var configuration = new ConfigurationBuilder()
                                 .AddJsonFile("DigitalCurrencySetting.json").
-                                Build();
+                                Build(); 
 
             var connectionString = configuration.GetSection("constr").Value;
             
